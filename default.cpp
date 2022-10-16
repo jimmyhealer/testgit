@@ -12,7 +12,7 @@ void sol(){
 }
 
 int main() {
-  int t = 1;
+  int t = 2;
   cin >> t;
   while(t--) {
     sol();
